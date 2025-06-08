@@ -14,23 +14,27 @@ A fully responsive and interactive website designed for **Kumar Fabricators**, s
 
 ### 🔥 Hero Section
 
-![Hero Screenshot](screenshots/hero-section.jpg)
+![Hero Screenshot](screenshot/1.png)
 
 ### 🧑‍🏭 About Section with Team Stats
 
-![About Screenshot](screenshots/about-section.jpg)
+![About Screenshot](screenshot/2.png)
 
-### 🛠️ Services Tabbed Section
+### 🛠️ Services 
 
-![Services Screenshot](screenshots/services-section.jpg)
+![Services Screenshot](screenshot/3.png)
 
-### 🏢 Client Carousel
+### 🏢 Why Choose Us
 
-![Clients Screenshot](screenshots/clients-section.jpg)
+![Clients Screenshot](screenshot/4.png)
 
 ### 📞 Contact Form
 
-![Contact Screenshot](screenshots/contact-section.jpg)
+![Contact Screenshot](screenshot/5.png)
+
+### 📞 Footer
+
+![Contact Screenshot](screenshot/6.png)
 
 ---
 
